@@ -14522,131 +14522,6 @@ fitness goals with style				</h2>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Shop]]></title>
-		<link>http://localhost/import-demo/?p=104</link>
-		<pubDate>Tue, 07 May 2024 04:18:55 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">https://raw.githubusercontent.com/drfuri/demo-content/main/ecomus/fashion/images/?p=104</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>104</wp:post_id>
-		<wp:post_date><![CDATA[2024-08-30 09:00:12]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-05-07 04:18:55]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-30 09:00:12]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-05-07 04:18:55]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[shop]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[104]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024-05-07]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024-05-09]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_mega]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:22:{s:4:"mega";s:1:"1";s:9:"mega_mode";s:4:"grid";s:9:"icon_type";s:11:"fontawesome";s:13:"icon_position";s:4:"left";s:4:"icon";s:0:"";s:10:"icon_image";s:0:"";s:13:"icon_image_id";s:0:"";s:8:"icon_svg";s:0:"";s:7:"visible";s:7:"visible";s:12:"disable_link";b:0;s:7:"content";s:0:"";s:5:"width";s:15:"container-fluid";s:12:"custom_width";s:6:"1140px";s:9:"alignment";s:4:"left";s:7:"padding";a:4:{s:3:"top";s:0:"";s:6:"bottom";s:0:"";s:4:"left";s:0:"";s:5:"right";s:0:"";}s:6:"margin";a:4:{s:3:"top";s:0:"";s:6:"bottom";s:0:"";s:4:"left";s:0:"";s:5:"right";s:0:"";}s:10:"background";a:6:{s:5:"image";s:0:"";s:5:"color";s:0:"";s:10:"attachment";s:6:"scroll";s:4:"size";s:0:"";s:6:"repeat";s:9:"no-repeat";s:8:"position";a:3:{s:1:"x";s:4:"left";s:1:"y";s:3:"top";s:6:"custom";a:2:{s:1:"x";s:0:"";s:1:"y";s:0:"";}}}s:13:"mt_menu_image";s:0:"";s:10:"icon_color";s:0:"";s:13:"icon_bg_color";s:0:"";s:14:"icon_hide_text";s:0:"";i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_mega_grid]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:3:{s:4:"rows";a:1:{i:0;a:5:{s:2:"id";s:1:"4";s:5:"order";s:1:"0";s:7:"padding";a:4:{s:3:"top";s:0:"";s:6:"bottom";s:0:"";s:4:"left";s:0:"";s:5:"right";s:0:"";}s:6:"margin";a:2:{s:3:"top";s:0:"";s:6:"bottom";s:0:"";}s:10:"background";a:6:{s:5:"image";a:2:{s:2:"id";s:0:"";s:3:"url";s:0:"";}s:5:"color";s:0:"";s:6:"repeat";s:6:"repeat";s:10:"attachment";s:6:"scroll";s:4:"size";s:0:"";s:8:"position";a:4:{s:1:"x";s:6:"center";s:1:"y";s:6:"center";s:8:"custom_x";s:0:"";s:8:"custom_y";s:0:"";}}}}s:7:"columns";a:5:{i:0;a:5:{s:2:"id";s:1:"5";s:3:"row";s:1:"4";s:5:"width";s:5:"14.99";s:7:"padding";a:4:{s:3:"top";s:0:"";s:6:"bottom";s:0:"";s:4:"left";s:0:"";s:5:"right";s:0:"";}s:10:"background";a:6:{s:5:"image";a:2:{s:2:"id";s:0:"";s:3:"url";s:0:"";}s:5:"color";s:0:"";s:6:"repeat";s:6:"repeat";s:10:"attachment";s:6:"scroll";s:4:"size";s:0:"";s:8:"position";a:4:{s:1:"x";s:6:"center";s:1:"y";s:6:"center";s:8:"custom_x";s:0:"";s:8:"custom_y";s:0:"";}}}i:1;a:5:{s:2:"id";s:1:"6";s:3:"row";s:1:"4";s:5:"width";s:5:"15.96";s:7:"padding";a:4:{s:3:"top";s:0:"";s:6:"bottom";s:0:"";s:4:"left";s:0:"";s:5:"right";s:0:"";}s:10:"background";a:6:{s:5:"image";a:2:{s:2:"id";s:0:"";s:3:"url";s:0:"";}s:5:"color";s:0:"";s:6:"repeat";s:6:"repeat";s:10:"attachment";s:6:"scroll";s:4:"size";s:0:"";s:8:"position";a:4:{s:1:"x";s:6:"center";s:1:"y";s:6:"center";s:8:"custom_x";s:0:"";s:8:"custom_y";s:0:"";}}}i:2;a:5:{s:2:"id";s:1:"7";s:3:"row";s:1:"4";s:5:"width";s:5:"17.02";s:7:"padding";a:4:{s:3:"top";s:0:"";s:6:"bottom";s:0:"";s:4:"left";s:0:"";s:5:"right";s:0:"";}s:10:"background";a:6:{s:5:"image";a:2:{s:2:"id";s:0:"";s:3:"url";s:0:"";}s:5:"color";s:0:"";s:6:"repeat";s:6:"repeat";s:10:"attachment";s:6:"scroll";s:4:"size";s:0:"";s:8:"position";a:4:{s:1:"x";s:6:"center";s:1:"y";s:6:"center";s:8:"custom_x";s:0:"";s:8:"custom_y";s:0:"";}}}i:3;a:5:{s:2:"id";s:1:"8";s:3:"row";s:1:"4";s:5:"width";s:5:"26.01";s:7:"padding";a:4:{s:3:"top";s:0:"";s:6:"bottom";s:0:"";s:4:"left";s:0:"";s:5:"right";s:0:"";}s:10:"background";a:6:{s:5:"image";a:2:{s:2:"id";s:0:"";s:3:"url";s:0:"";}s:5:"color";s:0:"";s:6:"repeat";s:6:"repeat";s:10:"attachment";s:6:"scroll";s:4:"size";s:0:"";s:8:"position";a:4:{s:1:"x";s:6:"center";s:1:"y";s:6:"center";s:8:"custom_x";s:0:"";s:8:"custom_y";s:0:"";}}}i:4;a:5:{s:2:"id";s:1:"9";s:3:"row";s:1:"4";s:5:"width";s:5:"26.02";s:7:"padding";a:4:{s:3:"top";s:0:"";s:6:"bottom";s:0:"";s:4:"left";s:0:"";s:5:"right";s:0:"";}s:10:"background";a:6:{s:5:"image";a:2:{s:2:"id";s:0:"";s:3:"url";s:0:"";}s:5:"color";s:0:"";s:6:"repeat";s:6:"repeat";s:10:"attachment";s:6:"scroll";s:4:"size";s:0:"";s:8:"position";a:4:{s:1:"x";s:6:"center";s:1:"y";s:6:"center";s:8:"custom_x";s:0:"";s:8:"custom_y";s:0:"";}}}}s:5:"items";a:25:{i:0;a:9:{s:3:"col";s:1:"5";s:5:"order";s:1:"0";s:9:"is_widget";s:4:"true";s:5:"title";s:12:"Shop Layouts";s:4:"link";a:2:{s:3:"url";s:0:"";s:6:"target";s:0:"";}s:4:"type";s:6:"custom";s:7:"classes";s:0:"";s:2:"id";s:3:"888";s:6:"object";s:7:"heading";}i:1;a:13:{s:3:"col";s:1:"5";s:5:"order";s:1:"1";s:9:"is_widget";s:4:"true";s:5:"title";s:7:"Default";s:4:"link";a:2:{s:3:"url";s:1:"#";s:6:"target";s:0:"";}s:10:"badges_new";s:0:"";s:10:"badges_hot";s:0:"";s:13:"badges_custom";s:0:"";s:18:"badges_custom_text";s:0:"";s:7:"classes";s:0:"";s:2:"id";s:3:"889";s:4:"type";s:6:"custom";s:6:"object";s:11:"custom-link";}i:2;a:13:{s:3:"col";s:1:"5";s:5:"order";s:1:"2";s:9:"is_widget";s:4:"true";s:5:"title";s:12:"Left Sidebar";s:4:"link";a:2:{s:3:"url";s:1:"#";s:6:"target";s:0:"";}s:10:"badges_new";s:0:"";s:10:"badges_hot";s:0:"";s:13:"badges_custom";s:0:"";s:18:"badges_custom_text";s:0:"";s:7:"classes";s:0:"";s:2:"id";s:3:"890";s:4:"type";s:6:"custom";s:6:"object";s:11:"custom-link";}i:3;a:13:{s:3:"col";s:1:"5";s:5:"order";s:1:"3";s:9:"is_widget";s:4:"true";s:5:"title";s:13:"Right Sidebar";s:4:"link";a:2:{s:3:"url";s:1:"#";s:6:"target";s:0:"";}s:10:"badges_new";s:0:"";s:10:"badges_hot";s:0:"";s:13:"badges_custom";s:0:"";s:18:"badges_custom_text";s:0:"";s:7:"classes";s:0:"";s:2:"id";s:3:"979";s:4:"type";s:6:"custom";s:6:"object";s:11:"custom-link";}i:4;a:13:{s:3:"col";s:1:"5";s:5:"order";s:1:"4";s:9:"is_widget";s:4:"true";s:5:"title";s:10:"Full Width";s:4:"link";a:2:{s:3:"url";s:1:"#";s:6:"target";s:0:"";}s:10:"badges_new";s:0:"";s:10:"badges_hot";s:0:"";s:13:"badges_custom";s:0:"";s:18:"badges_custom_text";s:0:"";s:7:"classes";s:0:"";s:2:"id";s:3:"982";s:4:"type";s:6:"custom";s:6:"object";s:11:"custom-link";}i:5;a:13:{s:3:"col";s:1:"5";s:5:"order";s:1:"5";s:9:"is_widget";s:4:"true";s:5:"title";s:14:"Sub collection";s:4:"link";a:2:{s:3:"url";s:1:"#";s:6:"target";s:0:"";}s:10:"badges_new";s:0:"";s:10:"badges_hot";s:0:"";s:13:"badges_custom";s:0:"";s:18:"badges_custom_text";s:0:"";s:7:"classes";s:0:"";s:2:"id";s:4:"1023";s:4:"type";s:6:"custom";s:6:"object";s:11:"custom-link";}i:6;a:13:{s:3:"col";s:1:"5";s:5:"order";s:1:"6";s:9:"is_widget";s:4:"true";s:5:"title";s:15:"Categories List";s:4:"link";a:2:{s:3:"url";s:1:"#";s:6:"target";s:0:"";}s:9:"badge_new";s:0:"";s:9:"badge_hot";s:0:"";s:12:"badge_custom";s:0:"";s:17:"badge_custom_text";s:0:"";s:7:"classes";s:0:"";s:2:"id";s:4:"1213";s:4:"type";s:6:"custom";s:6:"object";s:11:"custom-link";}i:7;a:9:{s:3:"col";s:1:"6";s:5:"order";s:1:"0";s:9:"is_widget";s:4:"true";s:5:"title";s:8:"Features";s:4:"link";a:2:{s:3:"url";s:0:"";s:6:"target";s:0:"";}s:4:"type";s:6:"custom";s:7:"classes";s:0:"";s:2:"id";s:4:"1214";s:6:"object";s:7:"heading";}i:8;a:13:{s:3:"col";s:1:"6";s:5:"order";s:1:"1";s:9:"is_widget";s:4:"true";s:5:"title";s:16:"Pagination links";s:4:"link";a:2:{s:3:"url";s:1:"#";s:6:"target";s:0:"";}s:9:"badge_new";s:0:"";s:9:"badge_hot";s:0:"";s:12:"badge_custom";s:0:"";s:17:"badge_custom_text";s:0:"";s:7:"classes";s:0:"";s:2:"id";s:4:"1215";s:4:"type";s:6:"custom";s:6:"object";s:11:"custom-link";}i:9;a:13:{s:3:"col";s:1:"6";s:5:"order";s:1:"2";s:9:"is_widget";s:4:"true";s:5:"title";s:19:"Pagination loadmore";s:4:"link";a:2:{s:3:"url";s:1:"#";s:6:"target";s:0:"";}s:9:"badge_new";s:0:"";s:9:"badge_hot";s:0:"";s:12:"badge_custom";s:0:"";s:17:"badge_custom_text";s:0:"";s:7:"classes";s:0:"";s:2:"id";s:4:"1216";s:4:"type";s:6:"custom";s:6:"object";s:11:"custom-link";}i:10;a:13:{s:3:"col";s:1:"6";s:5:"order";s:1:"3";s:9:"is_widget";s:4:"true";s:5:"title";s:29:"Pagination infinite scrolling";s:4:"link";a:2:{s:3:"url";s:1:"#";s:6:"target";s:0:"";}s:9:"badge_new";s:0:"";s:9:"badge_hot";s:0:"";s:12:"badge_custom";s:0:"";s:17:"badge_custom_text";s:0:"";s:7:"classes";s:0:"";s:2:"id";s:4:"1217";s:4:"type";s:6:"custom";s:6:"object";s:11:"custom-link";}i:11;a:13:{s:3:"col";s:1:"6";s:5:"order";s:1:"4";s:9:"is_widget";s:4:"true";s:5:"title";s:26:"Product Hover – Standard";s:4:"link";a:2:{s:3:"url";s:1:"#";s:6:"target";s:0:"";}s:9:"badge_new";s:0:"";s:9:"badge_hot";s:0:"";s:12:"badge_custom";s:0:"";s:17:"badge_custom_text";s:0:"";s:7:"classes";s:0:"";s:2:"id";s:4:"1228";s:4:"type";s:6:"custom";s:6:"object";s:11:"custom-link";}i:12;a:13:{s:3:"col";s:1:"6";s:5:"order";s:1:"5";s:9:"is_widget";s:4:"true";s:5:"title";s:22:"Product Hover – Zoom";s:4:"link";a:2:{s:3:"url";s:1:"#";s:6:"target";s:0:"";}s:9:"badge_new";s:0:"";s:9:"badge_hot";s:0:"";s:12:"badge_custom";s:0:"";s:17:"badge_custom_text";s:0:"";s:7:"classes";s:0:"";s:2:"id";s:4:"1229";s:4:"type";s:6:"custom";s:6:"object";s:11:"custom-link";}i:13;a:13:{s:3:"col";s:1:"6";s:5:"order";s:1:"6";s:9:"is_widget";s:4:"true";s:5:"title";s:24:"Product Hover – Slider";s:4:"link";a:2:{s:3:"url";s:1:"#";s:6:"target";s:0:"";}s:9:"badge_new";s:0:"";s:9:"badge_hot";s:0:"";s:12:"badge_custom";s:0:"";s:17:"badge_custom_text";s:0:"";s:7:"classes";s:0:"";s:2:"id";s:4:"1230";s:4:"type";s:6:"custom";s:6:"object";s:11:"custom-link";}i:14;a:13:{s:3:"col";s:1:"6";s:5:"order";s:1:"8";s:9:"is_widget";s:4:"true";s:5:"title";s:24:"Product Hover – Fadein";s:4:"link";a:2:{s:3:"url";s:1:"#";s:6:"target";s:0:"";}s:9:"badge_new";s:0:"";s:9:"badge_hot";s:0:"";s:12:"badge_custom";s:0:"";s:17:"badge_custom_text";s:0:"";s:7:"classes";s:0:"";s:2:"id";s:4:"1231";s:4:"type";s:6:"custom";s:6:"object";s:11:"custom-link";}i:15;a:9:{s:3:"col";s:1:"7";s:5:"order";s:1:"0";s:9:"is_widget";s:4:"true";s:5:"title";s:13:"Product Cards";s:4:"link";a:2:{s:3:"url";s:0:"";s:6:"target";s:0:"";}s:4:"type";s:6:"custom";s:7:"classes";s:0:"";s:2:"id";s:4:"1219";s:6:"object";s:7:"heading";}i:16;a:13:{s:3:"col";s:1:"7";s:5:"order";s:1:"1";s:9:"is_widget";s:4:"true";s:5:"title";s:15:"Product Card v1";s:4:"link";a:2:{s:3:"url";s:1:"#";s:6:"target";s:0:"";}s:9:"badge_new";s:0:"";s:9:"badge_hot";s:0:"";s:12:"badge_custom";s:0:"";s:17:"badge_custom_text";s:0:"";s:7:"classes";s:0:"";s:2:"id";s:4:"1218";s:4:"type";s:6:"custom";s:6:"object";s:11:"custom-link";}i:17;a:13:{s:3:"col";s:1:"7";s:5:"order";s:1:"2";s:9:"is_widget";s:4:"true";s:5:"title";s:15:"Product Card v2";s:4:"link";a:2:{s:3:"url";s:1:"#";s:6:"target";s:0:"";}s:9:"badge_new";s:0:"";s:9:"badge_hot";s:0:"";s:12:"badge_custom";s:0:"";s:17:"badge_custom_text";s:0:"";s:7:"classes";s:0:"";s:2:"id";s:4:"1220";s:4:"type";s:6:"custom";s:6:"object";s:11:"custom-link";}i:18;a:13:{s:3:"col";s:1:"7";s:5:"order";s:1:"3";s:9:"is_widget";s:4:"true";s:5:"title";s:15:"Product Card v3";s:4:"link";a:2:{s:3:"url";s:1:"#";s:6:"target";s:0:"";}s:9:"badge_new";s:0:"";s:9:"badge_hot";s:0:"";s:12:"badge_custom";s:0:"";s:17:"badge_custom_text";s:0:"";s:7:"classes";s:0:"";s:2:"id";s:4:"1221";s:4:"type";s:6:"custom";s:6:"object";s:11:"custom-link";}i:19;a:13:{s:3:"col";s:1:"7";s:5:"order";s:1:"4";s:9:"is_widget";s:4:"true";s:5:"title";s:15:"Product Card v4";s:4:"link";a:2:{s:3:"url";s:1:"#";s:6:"target";s:0:"";}s:9:"badge_new";s:0:"";s:9:"badge_hot";s:0:"";s:12:"badge_custom";s:0:"";s:17:"badge_custom_text";s:0:"";s:7:"classes";s:0:"";s:2:"id";s:4:"1222";s:4:"type";s:6:"custom";s:6:"object";s:11:"custom-link";}i:20;a:13:{s:3:"col";s:1:"7";s:5:"order";s:1:"5";s:9:"is_widget";s:4:"true";s:5:"title";s:15:"Product Card v5";s:4:"link";a:2:{s:3:"url";s:1:"#";s:6:"target";s:0:"";}s:9:"badge_new";s:0:"";s:9:"badge_hot";s:0:"";s:12:"badge_custom";s:0:"";s:17:"badge_custom_text";s:0:"";s:7:"classes";s:0:"";s:2:"id";s:4:"1223";s:4:"type";s:6:"custom";s:6:"object";s:11:"custom-link";}i:21;a:13:{s:3:"col";s:1:"7";s:5:"order";s:1:"6";s:9:"is_widget";s:4:"true";s:5:"title";s:15:"Product Card v6";s:4:"link";a:2:{s:3:"url";s:1:"#";s:6:"target";s:0:"";}s:9:"badge_new";s:0:"";s:9:"badge_hot";s:0:"";s:12:"badge_custom";s:0:"";s:17:"badge_custom_text";s:0:"";s:7:"classes";s:0:"";s:2:"id";s:4:"1224";s:4:"type";s:6:"custom";s:6:"object";s:11:"custom-link";}i:22;a:13:{s:3:"col";s:1:"7";s:5:"order";s:1:"7";s:9:"is_widget";s:4:"true";s:5:"title";s:15:"Product Card v7";s:4:"link";a:2:{s:3:"url";s:1:"#";s:6:"target";s:0:"";}s:9:"badge_new";s:0:"";s:9:"badge_hot";s:0:"";s:12:"badge_custom";s:0:"";s:17:"badge_custom_text";s:0:"";s:7:"classes";s:0:"";s:2:"id";s:4:"1225";s:4:"type";s:6:"custom";s:6:"object";s:11:"custom-link";}i:23;a:10:{s:3:"col";s:1:"8";s:5:"order";s:1:"0";s:9:"is_widget";s:4:"true";s:5:"image";a:2:{s:2:"id";s:4:"4635";s:3:"url";s:98:"https://raw.githubusercontent.com/drfuri/demo-content/main/ecomus/home-fashion/images/menu-men.jpg";}s:5:"title";s:3:"Men";s:4:"link";a:2:{s:3:"url";s:1:"#";s:6:"target";s:0:"";}s:7:"classes";s:0:"";s:2:"id";s:4:"1234";s:4:"type";s:6:"custom";s:6:"object";s:6:"banner";}i:24;a:10:{s:3:"col";s:1:"9";s:5:"order";s:1:"0";s:9:"is_widget";s:4:"true";s:5:"image";a:2:{s:2:"id";s:4:"4638";s:3:"url";s:100:"https://raw.githubusercontent.com/drfuri/demo-content/main/ecomus/home-fashion/images/menu-women.jpg";}s:5:"title";s:5:"Women";s:4:"link";a:2:{s:3:"url";s:1:"#";s:6:"target";s:0:"";}s:7:"classes";s:0:"";s:2:"id";s:4:"1236";s:4:"type";s:6:"custom";s:6:"object";s:6:"banner";}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024-06-10]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024-06-27]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024-06-27]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024-07-23]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024-07-25]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024-07-26]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024-07-30]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024-07-31]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024-08-01]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024-08-02]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024-08-05]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024-08-06]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024-08-28]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Products]]></title>
 		<link>http://localhost/import-demo/?p=105</link>
 		<pubDate>Tue, 07 May 2024 04:18:55 +0000</pubDate>
@@ -18362,22 +18237,22 @@ Please allow 06 - 12 business days from the time your package arrives back to us
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title><![CDATA[Shop]]></title>
+		<title><![CDATA[Checkout]]></title>
 		<link>http://localhost/import-demo/?page_id=8</link>
-		<pubDate>Fri, 30 Aug 2024 08:06:36 +0000</pubDate>
+		<pubDate>Wed, 04 Sep 2024 11:10:25 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/dev/ecomusv2/shop/</guid>
+		<guid isPermaLink="false">http://localhost/check/shop/</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[[woocommerce_checkout]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>8</wp:post_id>
-		<wp:post_date><![CDATA[2024-08-30 08:06:36]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-08-30 08:06:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-30 08:06:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-30 08:06:36]]></wp:post_modified_gmt>
+		<wp:post_date><![CDATA[2024-09-04 11:10:25]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-09-04 11:10:25]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-09-04 11:10:25]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-09-04 11:10:25]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[shop]]></wp:post_name>
+		<wp:post_name><![CDATA[shop-checkout]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -18385,238 +18260,167 @@ Please allow 06 - 12 business days from the time your package arrives back to us
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
-					<item>
+<item>
 		<title><![CDATA[Cart]]></title>
-		<link>http://localhost/import-demo/?page_id=9</link>
-		<pubDate>Fri, 30 Aug 2024 08:06:37 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/dev/ecomusv2/cart/</guid>
+		<link>https://wpecomus.com/electronic/cart/</link>
+		<pubDate>Wed, 24 Jul 2024 07:17:32 +0000</pubDate>
+		<dc:creator><![CDATA[drfurion@gmail.com]]></dc:creator>
+		<guid isPermaLink="false">https://wpecomus.com/electronic/cart/</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:woocommerce/cart -->
-<div class="wp-block-woocommerce-cart alignwide is-loading"><!-- wp:woocommerce/filled-cart-block -->
-<div class="wp-block-woocommerce-filled-cart-block"><!-- wp:woocommerce/cart-items-block -->
-<div class="wp-block-woocommerce-cart-items-block"><!-- wp:woocommerce/cart-line-items-block -->
-<div class="wp-block-woocommerce-cart-line-items-block"></div>
-<!-- /wp:woocommerce/cart-line-items-block -->
-
-<!-- wp:woocommerce/cart-cross-sells-block -->
-<div class="wp-block-woocommerce-cart-cross-sells-block"><!-- wp:heading {"fontSize":"large"} -->
-<h2 class="wp-block-heading has-large-font-size">You may be interested in…</h2>
-<!-- /wp:heading -->
-
-<!-- wp:woocommerce/cart-cross-sells-products-block -->
-<div class="wp-block-woocommerce-cart-cross-sells-products-block"></div>
-<!-- /wp:woocommerce/cart-cross-sells-products-block --></div>
-<!-- /wp:woocommerce/cart-cross-sells-block --></div>
-<!-- /wp:woocommerce/cart-items-block -->
-
-<!-- wp:woocommerce/cart-totals-block -->
-<div class="wp-block-woocommerce-cart-totals-block"><!-- wp:woocommerce/cart-order-summary-block -->
-<div class="wp-block-woocommerce-cart-order-summary-block"><!-- wp:woocommerce/cart-order-summary-heading-block -->
-<div class="wp-block-woocommerce-cart-order-summary-heading-block"></div>
-<!-- /wp:woocommerce/cart-order-summary-heading-block -->
-
-<!-- wp:woocommerce/cart-order-summary-coupon-form-block -->
-<div class="wp-block-woocommerce-cart-order-summary-coupon-form-block"></div>
-<!-- /wp:woocommerce/cart-order-summary-coupon-form-block -->
-
-<!-- wp:woocommerce/cart-order-summary-subtotal-block -->
-<div class="wp-block-woocommerce-cart-order-summary-subtotal-block"></div>
-<!-- /wp:woocommerce/cart-order-summary-subtotal-block -->
-
-<!-- wp:woocommerce/cart-order-summary-fee-block -->
-<div class="wp-block-woocommerce-cart-order-summary-fee-block"></div>
-<!-- /wp:woocommerce/cart-order-summary-fee-block -->
-
-<!-- wp:woocommerce/cart-order-summary-discount-block -->
-<div class="wp-block-woocommerce-cart-order-summary-discount-block"></div>
-<!-- /wp:woocommerce/cart-order-summary-discount-block -->
-
-<!-- wp:woocommerce/cart-order-summary-shipping-block -->
-<div class="wp-block-woocommerce-cart-order-summary-shipping-block"></div>
-<!-- /wp:woocommerce/cart-order-summary-shipping-block -->
-
-<!-- wp:woocommerce/cart-order-summary-taxes-block -->
-<div class="wp-block-woocommerce-cart-order-summary-taxes-block"></div>
-<!-- /wp:woocommerce/cart-order-summary-taxes-block --></div>
-<!-- /wp:woocommerce/cart-order-summary-block -->
-
-<!-- wp:woocommerce/cart-express-payment-block -->
-<div class="wp-block-woocommerce-cart-express-payment-block"></div>
-<!-- /wp:woocommerce/cart-express-payment-block -->
-
-<!-- wp:woocommerce/proceed-to-checkout-block -->
-<div class="wp-block-woocommerce-proceed-to-checkout-block"></div>
-<!-- /wp:woocommerce/proceed-to-checkout-block -->
-
-<!-- wp:woocommerce/cart-accepted-payment-methods-block -->
-<div class="wp-block-woocommerce-cart-accepted-payment-methods-block"></div>
-<!-- /wp:woocommerce/cart-accepted-payment-methods-block --></div>
-<!-- /wp:woocommerce/cart-totals-block --></div>
-<!-- /wp:woocommerce/filled-cart-block -->
-
-<!-- wp:woocommerce/empty-cart-block -->
-<div class="wp-block-woocommerce-empty-cart-block"><!-- wp:heading {"textAlign":"center","className":"with-empty-cart-icon wc-block-cart__empty-cart__title"} -->
-<h2 class="wp-block-heading has-text-align-center with-empty-cart-icon wc-block-cart__empty-cart__title">Your cart is currently empty!</h2>
-<!-- /wp:heading -->
-
-<!-- wp:separator {"className":"is-style-dots"} -->
-<hr class="wp-block-separator has-alpha-channel-opacity is-style-dots"/>
-<!-- /wp:separator -->
-
-<!-- wp:heading {"textAlign":"center"} -->
-<h2 class="wp-block-heading has-text-align-center">New in store</h2>
-<!-- /wp:heading -->
-
-<!-- wp:woocommerce/product-new {"columns":4,"rows":1} /--></div>
-<!-- /wp:woocommerce/empty-cart-block --></div>
-<!-- /wp:woocommerce/cart -->]]></content:encoded>
+		<content:encoded><![CDATA[[woocommerce_cart]		
+				<h4>
+					Happy Clients				</h4>
+						<svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg>
+													Best Online Fashion Site
+																			“I always find something stylish and affordable on this web fashion site”
+																			Robert smith
+																			Customer from USA
+											<img width="500" height="500" src="https://wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-016-500x500.webp" alt="" decoding="async" srcset="https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-016.webp?resize=500%2C500&amp;ssl=1 500w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-016.webp?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-016.webp?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-016.webp?resize=130%2C130&amp;ssl=1 130w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-016.webp?w=600&amp;ssl=1 600w" sizes="(max-width: 500px) 100vw, 500px" />										
+												<a href="https://wpecomus.com/electronic/product/wireless-on-ear-headphones-for-kids/" aria-label="Wireless On-Ear Headphones for Kids">Wireless On-Ear Headphones for Kids</a>
+												<del aria-hidden="true">&#036;34.99</del> Original price was: &#036;34.99.<ins aria-hidden="true">&#036;24.99</ins>Current price is: &#036;24.99.											
+										<a href="https://wpecomus.com/electronic/product/wireless-on-ear-headphones-for-kids/" aria-label=Testimonial Product Link>
+											<svg aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 8 8" fill="currentColor"><path d="M0.861539 8L0 7.13846L5.90769 1.23077H0.615385V0H8V7.38462H6.76923V2.09231L0.861539 8Z" fill="currentColor"></path></svg>										</a>
+						<svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg>
+													Great Selection and Quality
+																			"I love the variety of styles and the high-quality clothing on this web fashion site."
+																			Allen Lyn
+																			Customer from Fance
+											<img width="500" height="500" src="https://wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-001-500x500.webp" alt="" decoding="async" srcset="https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-001.webp?resize=500%2C500&amp;ssl=1 500w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-001.webp?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-001.webp?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-001.webp?resize=130%2C130&amp;ssl=1 130w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-001.webp?w=600&amp;ssl=1 600w" sizes="(max-width: 500px) 100vw, 500px" />										
+												<a href="https://wpecomus.com/electronic/product/ultraglass-2-treated-screen-protector-for-iphone-15-pro/" aria-label="UltraGlass 2 Treated Screen Protector for iPhone 15 Pro">UltraGlass 2 Treated Screen Protector for iPhone 15 Pro</a>
+												&#036;39.99											
+										<a href="https://wpecomus.com/electronic/product/ultraglass-2-treated-screen-protector-for-iphone-15-pro/" aria-label=Testimonial Product Link>
+											<svg aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 8 8" fill="currentColor"><path d="M0.861539 8L0 7.13846L5.90769 1.23077H0.615385V0H8V7.38462H6.76923V2.09231L0.861539 8Z" fill="currentColor"></path></svg>										</a>
+						<svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg>
+													Best Customer Service
+																			"I finally found a web fashion site with stylish and flattering options in my size."
+																			Peter Rope
+																			Customer from USA
+											<img width="493" height="493" src="https://wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-012.webp" alt="" decoding="async" srcset="https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-012.webp?w=493&amp;ssl=1 493w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-012.webp?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-012.webp?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-012.webp?resize=130%2C130&amp;ssl=1 130w" sizes="(max-width: 493px) 100vw, 493px" />										
+												<a href="https://wpecomus.com/electronic/product/soundform-rise/" aria-label="SoundForm Rise">SoundForm Rise</a>
+												<del aria-hidden="true">&#036;100.00</del> Original price was: &#036;100.00.<ins aria-hidden="true">&#036;79.99</ins>Current price is: &#036;79.99.											
+										<a href="https://wpecomus.com/electronic/product/soundform-rise/" aria-label=Testimonial Product Link>
+											<svg aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 8 8" fill="currentColor"><path d="M0.861539 8L0 7.13846L5.90769 1.23077H0.615385V0H8V7.38462H6.76923V2.09231L0.861539 8Z" fill="currentColor"></path></svg>										</a>
+						<svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg>
+													Great Selection and Quality
+																			"I love the variety of styles and the high-quality clothing on this web fashion site."
+																			Hellen Ase
+																			Customer from Japan
+											<img width="493" height="493" src="https://wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-006.webp" alt="" decoding="async" srcset="https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-006.webp?w=493&amp;ssl=1 493w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-006.webp?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-006.webp?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-006.webp?resize=130%2C130&amp;ssl=1 130w" sizes="(max-width: 493px) 100vw, 493px" />										
+												<a href="https://wpecomus.com/electronic/product/smart-light-switch-with-thread/" aria-label="Smart Light Switch with Thread">Smart Light Switch with Thread</a>
+												&#036;49.99											
+										<a href="https://wpecomus.com/electronic/product/smart-light-switch-with-thread/" aria-label=Testimonial Product Link>
+											<svg aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="8" height="8" viewBox="0 0 8 8" fill="currentColor"><path d="M0.861539 8L0 7.13846L5.90769 1.23077H0.615385V0H8V7.38462H6.76923V2.09231L0.861539 8Z" fill="currentColor"></path></svg>										</a>
+		<svg aria-hidden="true" role="img" focusable="false" width="7" height="11" viewBox="0 0 7 11" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M5.5 11L0 5.5L5.5 0L6.47625 0.97625L1.9525 5.5L6.47625 10.0238L5.5 11Z" fill="currentColor"/></svg><svg aria-hidden="true" role="img" focusable="false" width="7" height="11" viewBox="0 0 7 11" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M1.5 11L7 5.5L1.5 0L0.52375 0.97625L5.0475 5.5L0.52375 10.0238L1.5 11Z" fill="currentColor"/></svg>			
+				<h4>
+					You may also like				</h4>
+			<ul><li>
+	<a href="https://wpecomus.com/electronic/product/ultraglass-2-treated-screen-protector-for-iphone-15-pro/" aria-label="UltraGlass 2 Treated Screen Protector for iPhone 15 Pro"><img width="500" height="500" src="https://wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-001-500x500.webp" alt="" decoding="async" srcset="https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-001.webp?resize=500%2C500&amp;ssl=1 500w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-001.webp?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-001.webp?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-001.webp?resize=130%2C130&amp;ssl=1 130w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-001.webp?w=600&amp;ssl=1 600w" sizes="(max-width: 500px) 100vw, 500px" /><img width="500" height="500" src="https://wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-002-500x500.webp" alt="" decoding="async" srcset="https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-002.webp?resize=500%2C500&amp;ssl=1 500w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-002.webp?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-002.webp?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-002.webp?resize=130%2C130&amp;ssl=1 130w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-002.webp?w=600&amp;ssl=1 600w" sizes="(max-width: 500px) 100vw, 500px" /></a><a href="?add-to-cart=871" data-quantity="1" data-product_id="871" data-product_sku="" aria-label="Add to cart: &ldquo;UltraGlass 2 Treated Screen Protector for iPhone 15 Pro&rdquo;" rel="nofollow" data-success_message="&ldquo;UltraGlass 2 Treated Screen Protector for iPhone 15 Pro&rdquo; has been added to your cart" data-tooltip="Add to cart"><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#shopping-bag" xlink:href="#shopping-bag"></use> </svg> Add to cart</a><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg>Rated <strong>5.00</strong> out of 5			(1)
+			<h2><a href="https://wpecomus.com/electronic/product/ultraglass-2-treated-screen-protector-for-iphone-15-pro/" aria-label="UltraGlass 2 Treated Screen Protector for iPhone 15 Pro">UltraGlass 2 Treated Screen Protector for iPhone 15 Pro</a></h2>
+	<bdi>&#36;39.99</bdi>
+<a href="?add-to-cart=871" data-quantity="1" data-product_id="871" data-product_sku="" aria-label="Add to cart: &ldquo;UltraGlass 2 Treated Screen Protector for iPhone 15 Pro&rdquo;" rel="nofollow" data-success_message="&ldquo;UltraGlass 2 Treated Screen Protector for iPhone 15 Pro&rdquo; has been added to your cart" data-tooltip="Add to cart"><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#shopping-bag" xlink:href="#shopping-bag"></use> </svg> Add to cart</a></li>
+<li>
+	<a href="https://wpecomus.com/electronic/product/smart-light-switch-with-thread/" aria-label="Smart Light Switch with Thread"><img width="493" height="493" src="https://wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-006.webp" alt="" decoding="async" srcset="https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-006.webp?w=493&amp;ssl=1 493w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-006.webp?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-006.webp?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-006.webp?resize=130%2C130&amp;ssl=1 130w" sizes="(max-width: 493px) 100vw, 493px" /><img width="500" height="500" src="https://wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-007-500x500.webp" alt="" decoding="async" srcset="https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-007.webp?resize=500%2C500&amp;ssl=1 500w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-007.webp?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-007.webp?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-007.webp?resize=130%2C130&amp;ssl=1 130w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-007.webp?w=600&amp;ssl=1 600w" sizes="(max-width: 500px) 100vw, 500px" /></a><a href="?add-to-cart=798" data-quantity="1" data-product_id="798" data-product_sku="" aria-label="Add to cart: &ldquo;Smart Light Switch with Thread&rdquo;" rel="nofollow" data-success_message="&ldquo;Smart Light Switch with Thread&rdquo; has been added to your cart" data-tooltip="Add to cart"><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#shopping-bag" xlink:href="#shopping-bag"></use> </svg> Add to cart</a><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg>Rated <strong>4.00</strong> out of 5			(1)
+			<h2><a href="https://wpecomus.com/electronic/product/smart-light-switch-with-thread/" aria-label="Smart Light Switch with Thread">Smart Light Switch with Thread</a></h2>
+	<bdi>&#36;49.99</bdi>
+<a href="?add-to-cart=798" data-quantity="1" data-product_id="798" data-product_sku="" aria-label="Add to cart: &ldquo;Smart Light Switch with Thread&rdquo;" rel="nofollow" data-success_message="&ldquo;Smart Light Switch with Thread&rdquo; has been added to your cart" data-tooltip="Add to cart"><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#shopping-bag" xlink:href="#shopping-bag"></use> </svg> Add to cart</a></li>
+<li>
+	<a href="https://wpecomus.com/electronic/product/soundform-rise/" aria-label="SoundForm Rise"><img width="493" height="493" src="https://wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-012.webp" alt="" decoding="async" srcset="https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-012.webp?w=493&amp;ssl=1 493w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-012.webp?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-012.webp?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-012.webp?resize=130%2C130&amp;ssl=1 130w" sizes="(max-width: 493px) 100vw, 493px" /><img width="500" height="500" src="https://wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-013-500x500.webp" alt="" decoding="async" srcset="https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-013.webp?resize=500%2C500&amp;ssl=1 500w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-013.webp?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-013.webp?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-013.webp?resize=130%2C130&amp;ssl=1 130w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-013.webp?w=600&amp;ssl=1 600w" sizes="(max-width: 500px) 100vw, 500px" /></a>-20%<a href="?add-to-cart=782" data-quantity="1" data-product_id="782" data-product_sku="Q4TTYHTJY0" aria-label="Add to cart: &ldquo;SoundForm Rise&rdquo;" rel="nofollow" data-success_message="&ldquo;SoundForm Rise&rdquo; has been added to your cart" data-tooltip="Add to cart"><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#shopping-bag" xlink:href="#shopping-bag"></use> </svg> Add to cart</a><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg>Rated <strong>5.00</strong> out of 5			(1)
+			<h2><a href="https://wpecomus.com/electronic/product/soundform-rise/" aria-label="SoundForm Rise">SoundForm Rise</a></h2>
+	<del aria-hidden="true"><bdi>&#36;100.00</bdi></del> Original price was: &#036;100.00.<ins aria-hidden="true"><bdi>&#36;79.99</bdi></ins>Current price is: &#036;79.99.
+<a href="?add-to-cart=782" data-quantity="1" data-product_id="782" data-product_sku="Q4TTYHTJY0" aria-label="Add to cart: &ldquo;SoundForm Rise&rdquo;" rel="nofollow" data-success_message="&ldquo;SoundForm Rise&rdquo; has been added to your cart" data-tooltip="Add to cart"><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#shopping-bag" xlink:href="#shopping-bag"></use> </svg> Add to cart</a></li>
+<li>
+	<a href="https://wpecomus.com/electronic/product/wireless-on-ear-headphones-for-kids/" aria-label="Wireless On-Ear Headphones for Kids"><img width="500" height="500" src="https://wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-016-500x500.webp" alt="" decoding="async" srcset="https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-016.webp?resize=500%2C500&amp;ssl=1 500w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-016.webp?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-016.webp?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-016.webp?resize=130%2C130&amp;ssl=1 130w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-016.webp?w=600&amp;ssl=1 600w" sizes="(max-width: 500px) 100vw, 500px" /><img width="500" height="500" src="https://wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-017-500x500.webp" alt="" decoding="async" srcset="https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-017.webp?resize=500%2C500&amp;ssl=1 500w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-017.webp?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-017.webp?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-017.webp?resize=130%2C130&amp;ssl=1 130w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-017.webp?w=600&amp;ssl=1 600w" sizes="(max-width: 500px) 100vw, 500px" /></a>-29%<a href="?add-to-cart=775" data-quantity="1" data-product_id="775" data-product_sku="" aria-label="Add to cart: &ldquo;Wireless On-Ear Headphones for Kids&rdquo;" rel="nofollow" data-success_message="&ldquo;Wireless On-Ear Headphones for Kids&rdquo; has been added to your cart" data-tooltip="Add to cart"><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#shopping-bag" xlink:href="#shopping-bag"></use> </svg> Add to cart</a><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg>Rated <strong>5.00</strong> out of 5			(1)
+			<h2><a href="https://wpecomus.com/electronic/product/wireless-on-ear-headphones-for-kids/" aria-label="Wireless On-Ear Headphones for Kids">Wireless On-Ear Headphones for Kids</a></h2>
+	<del aria-hidden="true"><bdi>&#36;34.99</bdi></del> Original price was: &#036;34.99.<ins aria-hidden="true"><bdi>&#36;24.99</bdi></ins>Current price is: &#036;24.99.
+<a href="?add-to-cart=775" data-quantity="1" data-product_id="775" data-product_sku="" aria-label="Add to cart: &ldquo;Wireless On-Ear Headphones for Kids&rdquo;" rel="nofollow" data-success_message="&ldquo;Wireless On-Ear Headphones for Kids&rdquo; has been added to your cart" data-tooltip="Add to cart"><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#shopping-bag" xlink:href="#shopping-bag"></use> </svg> Add to cart</a></li>
+<li>
+	<a href="https://wpecomus.com/electronic/product/3-in-1-wireless-charger-with-official-magsafe-charging-15w/" aria-label="3-in-1 Wireless Charger with Official MagSafe Charging 15W"><img width="500" height="500" src="https://wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-018-500x500.webp" alt="" decoding="async" srcset="https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-018.webp?resize=500%2C500&amp;ssl=1 500w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-018.webp?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-018.webp?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-018.webp?resize=130%2C130&amp;ssl=1 130w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-018.webp?w=600&amp;ssl=1 600w" sizes="(max-width: 500px) 100vw, 500px" /><img width="500" height="500" src="https://wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-019-500x500.webp" alt="" decoding="async" srcset="https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-019.webp?resize=500%2C500&amp;ssl=1 500w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-019.webp?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-019.webp?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-019.webp?resize=130%2C130&amp;ssl=1 130w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-019.webp?w=600&amp;ssl=1 600w" sizes="(max-width: 500px) 100vw, 500px" /></a>-15%<a href="?add-to-cart=766" data-quantity="1" data-product_id="766" data-product_sku="" aria-label="Add to cart: &ldquo;3-in-1 Wireless Charger with Official MagSafe Charging 15W&rdquo;" rel="nofollow" data-success_message="&ldquo;3-in-1 Wireless Charger with Official MagSafe Charging 15W&rdquo; has been added to your cart" data-tooltip="Add to cart"><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#shopping-bag" xlink:href="#shopping-bag"></use> </svg> Add to cart</a><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg>Rated <strong>4.00</strong> out of 5			(1)
+			<h2><a href="https://wpecomus.com/electronic/product/3-in-1-wireless-charger-with-official-magsafe-charging-15w/" aria-label="3-in-1 Wireless Charger with Official MagSafe Charging 15W">3-in-1 Wireless Charger with Official MagSafe Charging 15W</a></h2>
+	<del aria-hidden="true"><bdi>&#36;149.99</bdi></del> Original price was: &#036;149.99.<ins aria-hidden="true"><bdi>&#36;127.49</bdi></ins>Current price is: &#036;127.49.
+<a href="?add-to-cart=766" data-quantity="1" data-product_id="766" data-product_sku="" aria-label="Add to cart: &ldquo;3-in-1 Wireless Charger with Official MagSafe Charging 15W&rdquo;" rel="nofollow" data-success_message="&ldquo;3-in-1 Wireless Charger with Official MagSafe Charging 15W&rdquo; has been added to your cart" data-tooltip="Add to cart"><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#shopping-bag" xlink:href="#shopping-bag"></use> </svg> Add to cart</a></li>
+<li>
+	<a href="https://wpecomus.com/electronic/product/3-in-1-wireless-charger-for-apple-devices/" aria-label="3-in-1 Wireless Charger for Apple Devices"><img width="500" height="500" src="https://wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-023-500x500.webp" alt="" decoding="async" srcset="https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-023.webp?resize=500%2C500&amp;ssl=1 500w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-023.webp?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-023.webp?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-023.webp?resize=130%2C130&amp;ssl=1 130w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-023.webp?w=600&amp;ssl=1 600w" sizes="(max-width: 500px) 100vw, 500px" /><img width="500" height="500" src="https://wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-024-500x500.webp" alt="" decoding="async" srcset="https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-024.webp?resize=500%2C500&amp;ssl=1 500w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-024.webp?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-024.webp?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-024.webp?resize=130%2C130&amp;ssl=1 130w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-024.webp?w=600&amp;ssl=1 600w" sizes="(max-width: 500px) 100vw, 500px" /></a><a href="?add-to-cart=754" data-quantity="1" data-product_id="754" data-product_sku="" aria-label="Add to cart: &ldquo;3-in-1 Wireless Charger for Apple Devices&rdquo;" rel="nofollow" data-success_message="&ldquo;3-in-1 Wireless Charger for Apple Devices&rdquo; has been added to your cart" data-tooltip="Add to cart"><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#shopping-bag" xlink:href="#shopping-bag"></use> </svg> Add to cart</a><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg>Rated <strong>4.00</strong> out of 5			(1)
+			<h2><a href="https://wpecomus.com/electronic/product/3-in-1-wireless-charger-for-apple-devices/" aria-label="3-in-1 Wireless Charger for Apple Devices">3-in-1 Wireless Charger for Apple Devices</a></h2>
+	<bdi>&#36;119.99</bdi>
+<a href="?add-to-cart=754" data-quantity="1" data-product_id="754" data-product_sku="" aria-label="Add to cart: &ldquo;3-in-1 Wireless Charger for Apple Devices&rdquo;" rel="nofollow" data-success_message="&ldquo;3-in-1 Wireless Charger for Apple Devices&rdquo; has been added to your cart" data-tooltip="Add to cart"><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#shopping-bag" xlink:href="#shopping-bag"></use> </svg> Add to cart</a></li>
+<li>
+	<a href="https://wpecomus.com/electronic/product/beats-studio-buds/" aria-label="Beats Studio Buds"><img width="500" height="500" src="https://wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-028-500x500.webp" alt="" decoding="async" srcset="https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-028.webp?resize=500%2C500&amp;ssl=1 500w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-028.webp?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-028.webp?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-028.webp?resize=700%2C700&amp;ssl=1 700w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-028.webp?resize=130%2C130&amp;ssl=1 130w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-028.webp?w=713&amp;ssl=1 713w" sizes="(max-width: 500px) 100vw, 500px" /><img width="500" height="500" src="https://wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-029-500x500.webp" alt="" decoding="async" srcset="https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-029.webp?resize=500%2C500&amp;ssl=1 500w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-029.webp?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-029.webp?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-029.webp?resize=700%2C700&amp;ssl=1 700w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-029.webp?resize=130%2C130&amp;ssl=1 130w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-029.webp?w=713&amp;ssl=1 713w" sizes="(max-width: 500px) 100vw, 500px" /></a><a href="https://wpecomus.com/electronic/product/beats-studio-buds/" data-quantity="1" data-product_id="743" data-product_sku="" aria-label="Select options for &ldquo;Beats Studio Buds&rdquo;" rel="nofollow" data-toggle="modal" data-target="quick-add-modal" data-tooltip="Select options"><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#shopping-bag" xlink:href="#shopping-bag"></use> </svg> Select options</a><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg>Rated <strong>5.00</strong> out of 5			(1)
+			<h2><a href="https://wpecomus.com/electronic/product/beats-studio-buds/" aria-label="Beats Studio Buds">Beats Studio Buds</a></h2>
+	<bdi>&#36;199.00</bdi>
+<a href="https://wpecomus.com/electronic/product/beats-studio-buds/" data-quantity="1" data-product_id="743" data-product_sku="" aria-label="Select options for &ldquo;Beats Studio Buds&rdquo;" rel="nofollow" data-toggle="modal" data-target="quick-add-modal" data-tooltip="Select options"><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#shopping-bag" xlink:href="#shopping-bag"></use> </svg> Select options</a></li>
+<li>
+	<a href="https://wpecomus.com/electronic/product/case-with-magsafe/" aria-label="Case with MagSafe"><img width="500" height="500" src="https://wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-034-500x500.webp" alt="" decoding="async" srcset="https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-034.webp?resize=500%2C500&amp;ssl=1 500w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-034.webp?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-034.webp?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-034.webp?resize=700%2C700&amp;ssl=1 700w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-034.webp?resize=130%2C130&amp;ssl=1 130w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-034.webp?w=713&amp;ssl=1 713w" sizes="(max-width: 500px) 100vw, 500px" /><img width="500" height="500" src="https://wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-035-500x500.webp" alt="" decoding="async" srcset="https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-035.webp?resize=500%2C500&amp;ssl=1 500w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-035.webp?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-035.webp?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-035.webp?resize=700%2C700&amp;ssl=1 700w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-035.webp?resize=130%2C130&amp;ssl=1 130w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-035.webp?w=713&amp;ssl=1 713w" sizes="(max-width: 500px) 100vw, 500px" /></a><a href="https://wpecomus.com/electronic/product/case-with-magsafe/" data-quantity="1" data-product_id="738" data-product_sku="" aria-label="Select options for &ldquo;Case with MagSafe&rdquo;" rel="nofollow" data-toggle="modal" data-target="quick-add-modal" data-tooltip="Select options"><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#shopping-bag" xlink:href="#shopping-bag"></use> </svg> Select options</a><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg>Rated <strong>3.00</strong> out of 5			(1)
+			<h2><a href="https://wpecomus.com/electronic/product/case-with-magsafe/" aria-label="Case with MagSafe">Case with MagSafe</a></h2>
+	<bdi>&#36;19.99</bdi>
+<a href="https://wpecomus.com/electronic/product/case-with-magsafe/" data-quantity="1" data-product_id="738" data-product_sku="" aria-label="Select options for &ldquo;Case with MagSafe&rdquo;" rel="nofollow" data-toggle="modal" data-target="quick-add-modal" data-tooltip="Select options"><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#shopping-bag" xlink:href="#shopping-bag"></use> </svg> Select options</a></li>
+<li>
+	<a href="https://wpecomus.com/electronic/product/wireless-charger-magsafe/" aria-label="Wireless Charger MagSafe"><img width="500" height="500" src="https://wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-041-500x500.webp" alt="" decoding="async" srcset="https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-041.webp?resize=500%2C500&amp;ssl=1 500w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-041.webp?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-041.webp?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-041.webp?resize=700%2C700&amp;ssl=1 700w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-041.webp?resize=130%2C130&amp;ssl=1 130w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-041.webp?w=713&amp;ssl=1 713w" sizes="(max-width: 500px) 100vw, 500px" /><img width="500" height="500" src="https://wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-042-500x500.webp" alt="" decoding="async" srcset="https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-042.webp?resize=500%2C500&amp;ssl=1 500w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-042.webp?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-042.webp?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-042.webp?resize=700%2C700&amp;ssl=1 700w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-042.webp?resize=130%2C130&amp;ssl=1 130w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-042.webp?w=713&amp;ssl=1 713w" sizes="(max-width: 500px) 100vw, 500px" /></a>-20%<a href="https://wpecomus.com/electronic/product/wireless-charger-magsafe/" data-quantity="1" data-product_id="720" data-product_sku="" aria-label="Select options for &ldquo;Wireless Charger MagSafe&rdquo;" rel="nofollow" data-toggle="modal" data-target="quick-add-modal" data-tooltip="Select options"><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#shopping-bag" xlink:href="#shopping-bag"></use> </svg> Select options</a><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg>Rated <strong>5.00</strong> out of 5			(1)
+			<h2><a href="https://wpecomus.com/electronic/product/wireless-charger-magsafe/" aria-label="Wireless Charger MagSafe">Wireless Charger MagSafe</a></h2>
+	<del aria-hidden="true"><bdi>&#36;495.00</bdi></del> Original price was: &#036;495.00.<ins aria-hidden="true"><bdi>&#36;396.00</bdi></ins>Current price is: &#036;396.00.
+<a href="https://wpecomus.com/electronic/product/wireless-charger-magsafe/" data-quantity="1" data-product_id="720" data-product_sku="" aria-label="Select options for &ldquo;Wireless Charger MagSafe&rdquo;" rel="nofollow" data-toggle="modal" data-target="quick-add-modal" data-tooltip="Select options"><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#shopping-bag" xlink:href="#shopping-bag"></use> </svg> Select options</a></li>
+<li>
+	<a href="https://wpecomus.com/electronic/product/smart-folio-for-ipad/" aria-label="Smart Folio for iPad"><img width="500" height="500" src="https://wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-046-500x500.webp" alt="" decoding="async" srcset="https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-046.webp?resize=500%2C500&amp;ssl=1 500w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-046.webp?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-046.webp?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-046.webp?resize=700%2C700&amp;ssl=1 700w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-046.webp?resize=130%2C130&amp;ssl=1 130w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-046.webp?w=713&amp;ssl=1 713w" sizes="(max-width: 500px) 100vw, 500px" /><img width="500" height="500" src="https://wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-047-500x500.webp" alt="" decoding="async" srcset="https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-047.webp?resize=500%2C500&amp;ssl=1 500w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-047.webp?resize=300%2C300&amp;ssl=1 300w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-047.webp?resize=150%2C150&amp;ssl=1 150w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-047.webp?resize=700%2C700&amp;ssl=1 700w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-047.webp?resize=130%2C130&amp;ssl=1 130w, https://i0.wp.com/wpecomus.com/electronic/wp-content/uploads/sites/12/2024/06/electronic-p-047.webp?w=713&amp;ssl=1 713w" sizes="(max-width: 500px) 100vw, 500px" /></a><a href="https://wpecomus.com/electronic/product/smart-folio-for-ipad/" data-quantity="1" data-product_id="705" data-product_sku="" aria-label="Select options for &ldquo;Smart Folio for iPad&rdquo;" rel="nofollow" data-toggle="modal" data-target="quick-add-modal" data-tooltip="Select options"><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#shopping-bag" xlink:href="#shopping-bag"></use> </svg> Select options</a><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#star" xlink:href="#star"></use> </svg>Rated <strong>4.00</strong> out of 5			(1)
+			<h2><a href="https://wpecomus.com/electronic/product/smart-folio-for-ipad/" aria-label="Smart Folio for iPad">Smart Folio for iPad</a></h2>
+	<bdi>&#36;25.00</bdi>
+<a href="https://wpecomus.com/electronic/product/smart-folio-for-ipad/" data-quantity="1" data-product_id="705" data-product_sku="" aria-label="Select options for &ldquo;Smart Folio for iPad&rdquo;" rel="nofollow" data-toggle="modal" data-target="quick-add-modal" data-tooltip="Select options"><svg width="24" height="24" aria-hidden="true" role="img" focusable="false" > <use href="#shopping-bag" xlink:href="#shopping-bag"></use> </svg> Select options</a></li>
+</ul>
+<svg aria-hidden="true" role="img" focusable="false" width="7" height="11" viewBox="0 0 7 11" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M5.5 11L0 5.5L5.5 0L6.47625 0.97625L1.9525 5.5L6.47625 10.0238L5.5 11Z" fill="currentColor"/></svg><svg aria-hidden="true" role="img" focusable="false" width="7" height="11" viewBox="0 0 7 11" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="M1.5 11L7 5.5L1.5 0L0.52375 0.97625L5.0475 5.5L0.52375 10.0238L1.5 11Z" fill="currentColor"/></svg>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>9</wp:post_id>
-		<wp:post_date><![CDATA[2024-08-30 08:06:37]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-08-30 08:06:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-30 08:06:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-30 08:06:37]]></wp:post_modified_gmt>
+		<wp:post_id>7</wp:post_id>
+		<wp:post_date><![CDATA[2024-07-24 07:17:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-07-24 07:17:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-10-04 08:22:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-10-04 08:22:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cart]]></wp:post_name>
+		<wp:post_name><![CDATA[shop-cart]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[Checkout]]></title>
-		<link>http://localhost/import-demo/?page_id=10</link>
-		<pubDate>Fri, 30 Aug 2024 08:06:37 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/dev/ecomusv2/checkout/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:woocommerce/checkout -->
-<div class="wp-block-woocommerce-checkout alignwide wc-block-checkout is-loading"><!-- wp:woocommerce/checkout-fields-block -->
-<div class="wp-block-woocommerce-checkout-fields-block"><!-- wp:woocommerce/checkout-express-payment-block -->
-<div class="wp-block-woocommerce-checkout-express-payment-block"></div>
-<!-- /wp:woocommerce/checkout-express-payment-block -->
-
-<!-- wp:woocommerce/checkout-contact-information-block -->
-<div class="wp-block-woocommerce-checkout-contact-information-block"></div>
-<!-- /wp:woocommerce/checkout-contact-information-block -->
-
-<!-- wp:woocommerce/checkout-shipping-method-block -->
-<div class="wp-block-woocommerce-checkout-shipping-method-block"></div>
-<!-- /wp:woocommerce/checkout-shipping-method-block -->
-
-<!-- wp:woocommerce/checkout-pickup-options-block -->
-<div class="wp-block-woocommerce-checkout-pickup-options-block"></div>
-<!-- /wp:woocommerce/checkout-pickup-options-block -->
-
-<!-- wp:woocommerce/checkout-shipping-address-block -->
-<div class="wp-block-woocommerce-checkout-shipping-address-block"></div>
-<!-- /wp:woocommerce/checkout-shipping-address-block -->
-
-<!-- wp:woocommerce/checkout-billing-address-block -->
-<div class="wp-block-woocommerce-checkout-billing-address-block"></div>
-<!-- /wp:woocommerce/checkout-billing-address-block -->
-
-<!-- wp:woocommerce/checkout-shipping-methods-block -->
-<div class="wp-block-woocommerce-checkout-shipping-methods-block"></div>
-<!-- /wp:woocommerce/checkout-shipping-methods-block -->
-
-<!-- wp:woocommerce/checkout-payment-block -->
-<div class="wp-block-woocommerce-checkout-payment-block"></div>
-<!-- /wp:woocommerce/checkout-payment-block -->
-
-<!-- wp:woocommerce/checkout-additional-information-block -->
-<div class="wp-block-woocommerce-checkout-additional-information-block"></div>
-<!-- /wp:woocommerce/checkout-additional-information-block -->
-
-<!-- wp:woocommerce/checkout-order-note-block -->
-<div class="wp-block-woocommerce-checkout-order-note-block"></div>
-<!-- /wp:woocommerce/checkout-order-note-block -->
-
-<!-- wp:woocommerce/checkout-terms-block -->
-<div class="wp-block-woocommerce-checkout-terms-block"></div>
-<!-- /wp:woocommerce/checkout-terms-block -->
-
-<!-- wp:woocommerce/checkout-actions-block -->
-<div class="wp-block-woocommerce-checkout-actions-block"></div>
-<!-- /wp:woocommerce/checkout-actions-block --></div>
-<!-- /wp:woocommerce/checkout-fields-block -->
-
-<!-- wp:woocommerce/checkout-totals-block -->
-<div class="wp-block-woocommerce-checkout-totals-block"><!-- wp:woocommerce/checkout-order-summary-block -->
-<div class="wp-block-woocommerce-checkout-order-summary-block"><!-- wp:woocommerce/checkout-order-summary-cart-items-block -->
-<div class="wp-block-woocommerce-checkout-order-summary-cart-items-block"></div>
-<!-- /wp:woocommerce/checkout-order-summary-cart-items-block -->
-
-<!-- wp:woocommerce/checkout-order-summary-coupon-form-block -->
-<div class="wp-block-woocommerce-checkout-order-summary-coupon-form-block"></div>
-<!-- /wp:woocommerce/checkout-order-summary-coupon-form-block -->
-
-<!-- wp:woocommerce/checkout-order-summary-subtotal-block -->
-<div class="wp-block-woocommerce-checkout-order-summary-subtotal-block"></div>
-<!-- /wp:woocommerce/checkout-order-summary-subtotal-block -->
-
-<!-- wp:woocommerce/checkout-order-summary-fee-block -->
-<div class="wp-block-woocommerce-checkout-order-summary-fee-block"></div>
-<!-- /wp:woocommerce/checkout-order-summary-fee-block -->
-
-<!-- wp:woocommerce/checkout-order-summary-discount-block -->
-<div class="wp-block-woocommerce-checkout-order-summary-discount-block"></div>
-<!-- /wp:woocommerce/checkout-order-summary-discount-block -->
-
-<!-- wp:woocommerce/checkout-order-summary-shipping-block -->
-<div class="wp-block-woocommerce-checkout-order-summary-shipping-block"></div>
-<!-- /wp:woocommerce/checkout-order-summary-shipping-block -->
-
-<!-- wp:woocommerce/checkout-order-summary-taxes-block -->
-<div class="wp-block-woocommerce-checkout-order-summary-taxes-block"></div>
-<!-- /wp:woocommerce/checkout-order-summary-taxes-block --></div>
-<!-- /wp:woocommerce/checkout-order-summary-block --></div>
-<!-- /wp:woocommerce/checkout-totals-block --></div>
-<!-- /wp:woocommerce/checkout -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>10</wp:post_id>
-		<wp:post_date><![CDATA[2024-08-30 08:06:37]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-08-30 08:06:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-30 08:06:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-30 08:06:37]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[checkout]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title><![CDATA[My account]]></title>
-		<link>http://localhost/import-demo/?page_id=11</link>
-		<pubDate>Fri, 30 Aug 2024 08:06:37 +0000</pubDate>
-		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost/dev/ecomusv2/my-account/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:shortcode -->[woocommerce_my_account]<!-- /wp:shortcode -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>11</wp:post_id>
-		<wp:post_date><![CDATA[2024-08-30 08:06:37]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-08-30 08:06:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-08-30 08:06:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-08-30 08:06:37]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[my-account]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[wp-page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3.24.5]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[{"id":"39a099e8","elType":"container","settings":[],"elements":[{"id":"16ecf97e","elType":"widget","settings":{"shortcode":"[woocommerce_cart]"},"elements":[],"widgetType":"shortcode"}],"isInner":false},{"id":"25fe117","elType":"container","settings":{"flex_gap":{"column":"50","row":"50","isLinked":true,"unit":"px","size":50},"border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"border_color":"#EBEBEB","padding":{"unit":"px","top":"70","right":"0","bottom":"60","left":"0","isLinked":false},"flex_gap_mobile":{"column":"35","row":"35","isLinked":true,"unit":"px","size":35},"padding_mobile":{"unit":"px","top":"40","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[{"id":"e6a25a2","elType":"widget","settings":{"content_width":"full","title":"Happy Clients","title_size":"h4","align":"center","typography_typography":"custom","typography_font_size_tablet":{"unit":"px","size":32,"sizes":[]},"typography_font_size_mobile":{"unit":"px","size":22,"sizes":[]}},"elements":[],"widgetType":"ecomus-heading"},{"id":"27c6afc","elType":"widget","settings":{"testimonials":[{"testimonial_name":"Robert smith","_id":"060ec67","testimonial_title":"Best Online Fashion Site","testimonial_content":"\u201cI always find something stylish and affordable on this web fashion site\u201d","testimonial_text":"Customer from USA","testimonial_product_id":775},{"testimonial_name":"Allen Lyn","testimonial_title":"Great Selection and Quality","testimonial_content":"\"I love the variety of styles and the high-quality clothing on this web fashion site.\"","testimonial_text":"Customer from Fance","testimonial_product_id":871,"_id":"ecea334"},{"testimonial_name":"Peter Rope","testimonial_title":"Best Customer Service","testimonial_content":"\"I finally found a web fashion site with stylish and flattering options in my size.\"","testimonial_text":"Customer from USA","testimonial_product_id":782,"_id":"19e023e"},{"testimonial_name":"Hellen Ase","_id":"4c7dbb3","testimonial_title":"Great Selection and Quality","testimonial_content":"\"I love the variety of styles and the high-quality clothing on this web fashion site.\"","testimonial_text":"Customer from Japan","testimonial_product_id":798}],"navigation_classes_tablet":"arrows","navigation_classes_mobile":"dots","text_typography_font_size":{"unit":"px","size":103,"sizes":[]},"image_spacing_custom_mobile":15,"content_width":"full","slides_to_show_tablet":2,"slides_to_show_mobile":1,"slides_to_scroll_tablet":2,"slides_to_scroll_mobile":1},"elements":[],"widgetType":"ecomus-testimonial-carousel-2"}],"isInner":false},{"id":"27d1789","elType":"container","settings":{"flex_gap":{"column":"50","row":"50","isLinked":true,"unit":"px","size":50},"border_width":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"border_color":"#EBEBEB","padding":{"unit":"px","top":"40","right":"0","bottom":"60","left":"0","isLinked":false},"flex_gap_mobile":{"column":"35","row":"35","isLinked":true,"unit":"px","size":35},"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"20","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[{"id":"5fd2a46","elType":"widget","settings":{"content_width":"full","title":"You may also like","title_size":"h4","align":"center","typography_typography":"custom","typography_font_size_tablet":{"unit":"px","size":32,"sizes":[]},"typography_font_size_mobile":{"unit":"px","size":22,"sizes":[]}},"elements":[],"widgetType":"ecomus-heading"},{"id":"53dac65","elType":"widget","settings":{"content_width":"full","heading":"This is the text"},"elements":[],"widgetType":"ecomus-products-carousel"}],"isInner":false}]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[enable_popup]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[popup_include_pages]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[popup_exclude_pages]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_page_assets]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{s:7:"scripts";a:1:{i:0;s:24:"ecomus-elementor-widgets";}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_element_cache]]></wp:meta_key>
+		<wp:meta_value><![CDATA[{"timeout":1728116594,"value":{"content":"<div class=\"elementor-element elementor-element-39a099e8 e-flex e-con-boxed ecomus-responsive-column ecomus-tablet-column--default ecomus-responsive-column ecomus-mobile-column--default e-con e-parent\" data-id=\"39a099e8\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t[elementor-element data=\"eyJpZCI6IjE2ZWNmOTdlIiwiZWxUeXBlIjoid2lkZ2V0Iiwic2V0dGluZ3MiOnsic2hvcnRjb2RlIjoiW3dvb2NvbW1lcmNlX2NhcnRdIn0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6InNob3J0Y29kZSJ9\"]\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-25fe117 e-flex e-con-boxed ecomus-responsive-column ecomus-tablet-column--default ecomus-responsive-column ecomus-mobile-column--default e-con e-parent\" data-id=\"25fe117\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t[elementor-element data=\"eyJpZCI6ImU2YTI1YTIiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsInRpdGxlIjoiSGFwcHkgQ2xpZW50cyIsInRpdGxlX3NpemUiOiJoNCIsImFsaWduIjoiY2VudGVyIiwidHlwb2dyYXBoeV90eXBvZ3JhcGh5IjoiY3VzdG9tIiwidHlwb2dyYXBoeV9mb250X3NpemVfdGFibGV0Ijp7InVuaXQiOiJweCIsInNpemUiOjMyLCJzaXplcyI6W119LCJ0eXBvZ3JhcGh5X2ZvbnRfc2l6ZV9tb2JpbGUiOnsidW5pdCI6InB4Iiwic2l6ZSI6MjIsInNpemVzIjpbXX19LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJlY29tdXMtaGVhZGluZyJ9\"][elementor-element data=\"eyJpZCI6IjI3YzZhZmMiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJ0ZXN0aW1vbmlhbHMiOlt7InRlc3RpbW9uaWFsX25hbWUiOiJSb2JlcnQgc21pdGgiLCJfaWQiOiIwNjBlYzY3IiwidGVzdGltb25pYWxfdGl0bGUiOiJCZXN0IE9ubGluZSBGYXNoaW9uIFNpdGUiLCJ0ZXN0aW1vbmlhbF9jb250ZW50IjoiXHUyMDFjSSBhbHdheXMgZmluZCBzb21ldGhpbmcgc3R5bGlzaCBhbmQgYWZmb3JkYWJsZSBvbiB0aGlzIHdlYiBmYXNoaW9uIHNpdGVcdTIwMWQiLCJ0ZXN0aW1vbmlhbF90ZXh0IjoiQ3VzdG9tZXIgZnJvbSBVU0EiLCJ0ZXN0aW1vbmlhbF9wcm9kdWN0X2lkIjo3NzV9LHsidGVzdGltb25pYWxfbmFtZSI6IkFsbGVuIEx5biIsInRlc3RpbW9uaWFsX3RpdGxlIjoiR3JlYXQgU2VsZWN0aW9uIGFuZCBRdWFsaXR5IiwidGVzdGltb25pYWxfY29udGVudCI6IlwiSSBsb3ZlIHRoZSB2YXJpZXR5IG9mIHN0eWxlcyBhbmQgdGhlIGhpZ2gtcXVhbGl0eSBjbG90aGluZyBvbiB0aGlzIHdlYiBmYXNoaW9uIHNpdGUuXCIiLCJ0ZXN0aW1vbmlhbF90ZXh0IjoiQ3VzdG9tZXIgZnJvbSBGYW5jZSIsInRlc3RpbW9uaWFsX3Byb2R1Y3RfaWQiOjg3MSwiX2lkIjoiZWNlYTMzNCJ9LHsidGVzdGltb25pYWxfbmFtZSI6IlBldGVyIFJvcGUiLCJ0ZXN0aW1vbmlhbF90aXRsZSI6IkJlc3QgQ3VzdG9tZXIgU2VydmljZSIsInRlc3RpbW9uaWFsX2NvbnRlbnQiOiJcIkkgZmluYWxseSBmb3VuZCBhIHdlYiBmYXNoaW9uIHNpdGUgd2l0aCBzdHlsaXNoIGFuZCBmbGF0dGVyaW5nIG9wdGlvbnMgaW4gbXkgc2l6ZS5cIiIsInRlc3RpbW9uaWFsX3RleHQiOiJDdXN0b21lciBmcm9tIFVTQSIsInRlc3RpbW9uaWFsX3Byb2R1Y3RfaWQiOjc4MiwiX2lkIjoiMTllMDIzZSJ9LHsidGVzdGltb25pYWxfbmFtZSI6IkhlbGxlbiBBc2UiLCJfaWQiOiI0YzdkYmIzIiwidGVzdGltb25pYWxfdGl0bGUiOiJHcmVhdCBTZWxlY3Rpb24gYW5kIFF1YWxpdHkiLCJ0ZXN0aW1vbmlhbF9jb250ZW50IjoiXCJJIGxvdmUgdGhlIHZhcmlldHkgb2Ygc3R5bGVzIGFuZCB0aGUgaGlnaC1xdWFsaXR5IGNsb3RoaW5nIG9uIHRoaXMgd2ViIGZhc2hpb24gc2l0ZS5cIiIsInRlc3RpbW9uaWFsX3RleHQiOiJDdXN0b21lciBmcm9tIEphcGFuIiwidGVzdGltb25pYWxfcHJvZHVjdF9pZCI6Nzk4fV0sIm5hdmlnYXRpb25fY2xhc3Nlc190YWJsZXQiOiJhcnJvd3MiLCJuYXZpZ2F0aW9uX2NsYXNzZXNfbW9iaWxlIjoiZG90cyIsInRleHRfdHlwb2dyYXBoeV9mb250X3NpemUiOnsidW5pdCI6InB4Iiwic2l6ZSI6MTAzLCJzaXplcyI6W119LCJpbWFnZV9zcGFjaW5nX2N1c3RvbV9tb2JpbGUiOjE1LCJjb250ZW50X3dpZHRoIjoiZnVsbCIsInNsaWRlc190b19zaG93X3RhYmxldCI6Miwic2xpZGVzX3RvX3Nob3dfbW9iaWxlIjoxLCJzbGlkZXNfdG9fc2Nyb2xsX3RhYmxldCI6Miwic2xpZGVzX3RvX3Njcm9sbF9tb2JpbGUiOjF9LCJlbGVtZW50cyI6W10sIndpZGdldFR5cGUiOiJlY29tdXMtdGVzdGltb25pYWwtY2Fyb3VzZWwtMiJ9\"]\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t<div class=\"elementor-element elementor-element-27d1789 e-flex e-con-boxed ecomus-responsive-column ecomus-tablet-column--default ecomus-responsive-column ecomus-mobile-column--default e-con e-parent\" data-id=\"27d1789\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t[elementor-element data=\"eyJpZCI6IjVmZDJhNDYiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsInRpdGxlIjoiWW91IG1heSBhbHNvIGxpa2UiLCJ0aXRsZV9zaXplIjoiaDQiLCJhbGlnbiI6ImNlbnRlciIsInR5cG9ncmFwaHlfdHlwb2dyYXBoeSI6ImN1c3RvbSIsInR5cG9ncmFwaHlfZm9udF9zaXplX3RhYmxldCI6eyJ1bml0IjoicHgiLCJzaXplIjozMiwic2l6ZXMiOltdfSwidHlwb2dyYXBoeV9mb250X3NpemVfbW9iaWxlIjp7InVuaXQiOiJweCIsInNpemUiOjIyLCJzaXplcyI6W119fSwiZWxlbWVudHMiOltdLCJ3aWRnZXRUeXBlIjoiZWNvbXVzLWhlYWRpbmcifQ==\"][elementor-element data=\"eyJpZCI6IjUzZGFjNjUiLCJlbFR5cGUiOiJ3aWRnZXQiLCJzZXR0aW5ncyI6eyJjb250ZW50X3dpZHRoIjoiZnVsbCIsImhlYWRpbmciOiJUaGlzIGlzIHRoZSB0ZXh0In0sImVsZW1lbnRzIjpbXSwid2lkZ2V0VHlwZSI6ImVjb211cy1wcm9kdWN0cy1jYXJvdXNlbCJ9\"]\t\t\t<\/div>\n\t\t\t\t<\/div>\n\t\t","scripts":[],"styles":[]}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Something About This Style Of Jeans]]></title>
 		<link>http://localhost/import-demo/?p=144</link>
