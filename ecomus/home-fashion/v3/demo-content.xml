@@ -24058,36 +24058,11 @@ Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow 
 		<category domain="pa_size" nicename="l"><![CDATA[L]]></category>
 		<category domain="pa_color" nicename="light-pink"><![CDATA[Light Pink]]></category>
 		<category domain="pa_size" nicename="m"><![CDATA[M]]></category>
-		<category domain="product_visibility" nicename="outofstock"><![CDATA[outofstock]]></category>
 		<category domain="product_visibility" nicename="rated-4"><![CDATA[rated-4]]></category>
 		<category domain="pa_size" nicename="s"><![CDATA[S]]></category>
 		<category domain="product_type" nicename="variable"><![CDATA[variable]]></category>
 		<category domain="pa_color" nicename="white"><![CDATA[White]]></category>
 		<category domain="product_cat" nicename="women"><![CDATA[Women]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_deal_sales_counts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_deal_quantity]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_deal_sales_counts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_deal_quantity]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_deal_sales_counts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_deal_quantity]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
 		<wp:meta_value><![CDATA[0]]></wp:meta_value>
@@ -24138,7 +24113,7 @@ Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[outofstock]]></wp:meta_value>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
@@ -27649,6 +27624,14 @@ Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow 
 		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[7.99]]></wp:meta_value>
 		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_deal_sales_counts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_deal_quantity]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Boxy T-shirt - Light Pink]]></title>
@@ -27756,6 +27739,14 @@ Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow 
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
 		<wp:meta_value><![CDATA[7.99]]></wp:meta_value>
+		</wp:postmeta>
+		<wp:postmeta>
+		<wp:meta_key><![CDATA[_deal_sales_counts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_deal_quantity]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
