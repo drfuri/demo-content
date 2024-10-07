@@ -26797,7 +26797,7 @@ Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
