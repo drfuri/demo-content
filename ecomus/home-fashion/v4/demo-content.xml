@@ -23408,7 +23408,6 @@ Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow 
 										<category domain="pa_color" nicename="beige"><![CDATA[Beige]]></category>
 		<category domain="pa_size" nicename="l"><![CDATA[L]]></category>
 		<category domain="pa_size" nicename="m"><![CDATA[M]]></category>
-		<category domain="product_visibility" nicename="outofstock"><![CDATA[outofstock]]></category>
 		<category domain="product_visibility" nicename="rated-5"><![CDATA[rated-5]]></category>
 		<category domain="pa_size" nicename="s"><![CDATA[S]]></category>
 		<category domain="product_type" nicename="variable"><![CDATA[variable]]></category>
@@ -23504,7 +23503,7 @@ Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[outofstock]]></wp:meta_value>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
