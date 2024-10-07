@@ -19281,7 +19281,7 @@ Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[outofstock]]></wp:meta_value>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
@@ -19598,7 +19598,6 @@ Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow 
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="pa_color" nicename="black"><![CDATA[Black]]></category>
-		<category domain="product_visibility" nicename="outofstock"><![CDATA[outofstock]]></category>
 		<category domain="product_visibility" nicename="rated-5"><![CDATA[rated-5]]></category>
 		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
 		<category domain="pa_color" nicename="white"><![CDATA[White]]></category>
@@ -19709,7 +19708,7 @@ Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[outofstock]]></wp:meta_value>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
@@ -20717,7 +20716,6 @@ Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow 
 										<category domain="pa_size" nicename="l"><![CDATA[L]]></category>
 		<category domain="pa_size" nicename="m"><![CDATA[M]]></category>
 		<category domain="product_brand" nicename="nice-west"><![CDATA[Nice West]]></category>
-		<category domain="product_visibility" nicename="outofstock"><![CDATA[outofstock]]></category>
 		<category domain="product_visibility" nicename="rated-5"><![CDATA[rated-5]]></category>
 		<category domain="pa_size" nicename="s"><![CDATA[S]]></category>
 		<category domain="product_type" nicename="variable"><![CDATA[variable]]></category>
@@ -20824,7 +20822,7 @@ Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[outofstock]]></wp:meta_value>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
@@ -21196,7 +21194,6 @@ Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow 
 		<category domain="pa_color" nicename="dark-green"><![CDATA[Dark Green]]></category>
 		<category domain="pa_size" nicename="l"><![CDATA[L]]></category>
 		<category domain="pa_size" nicename="m"><![CDATA[M]]></category>
-		<category domain="product_visibility" nicename="outofstock"><![CDATA[outofstock]]></category>
 		<category domain="product_visibility" nicename="rated-5"><![CDATA[rated-5]]></category>
 		<category domain="pa_size" nicename="s"><![CDATA[S]]></category>
 		<category domain="product_type" nicename="variable"><![CDATA[variable]]></category>
@@ -21291,7 +21288,7 @@ Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[outofstock]]></wp:meta_value>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
@@ -21561,7 +21558,6 @@ Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow 
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="pa_size" nicename="l"><![CDATA[L]]></category>
 		<category domain="pa_size" nicename="m"><![CDATA[M]]></category>
-		<category domain="product_visibility" nicename="outofstock"><![CDATA[outofstock]]></category>
 		<category domain="product_visibility" nicename="rated-5"><![CDATA[rated-5]]></category>
 		<category domain="pa_size" nicename="s"><![CDATA[S]]></category>
 		<category domain="product_type" nicename="variable"><![CDATA[variable]]></category>
@@ -21652,7 +21648,7 @@ Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[outofstock]]></wp:meta_value>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
@@ -21924,7 +21920,6 @@ Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow 
 		<category domain="pa_size" nicename="l"><![CDATA[L]]></category>
 		<category domain="pa_color" nicename="light-pink"><![CDATA[Light Pink]]></category>
 		<category domain="pa_size" nicename="m"><![CDATA[M]]></category>
-		<category domain="product_visibility" nicename="outofstock"><![CDATA[outofstock]]></category>
 		<category domain="product_visibility" nicename="rated-4"><![CDATA[rated-4]]></category>
 		<category domain="pa_size" nicename="s"><![CDATA[S]]></category>
 		<category domain="product_type" nicename="variable"><![CDATA[variable]]></category>
@@ -22012,7 +22007,7 @@ Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[outofstock]]></wp:meta_value>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
@@ -22304,7 +22299,6 @@ Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow 
 		<category domain="pa_size" nicename="l"><![CDATA[L]]></category>
 		<category domain="pa_size" nicename="m"><![CDATA[M]]></category>
 		<category domain="product_cat" nicename="men"><![CDATA[Men]]></category>
-		<category domain="product_visibility" nicename="outofstock"><![CDATA[outofstock]]></category>
 		<category domain="product_visibility" nicename="rated-4"><![CDATA[rated-4]]></category>
 		<category domain="pa_size" nicename="s"><![CDATA[S]]></category>
 		<category domain="product_type" nicename="variable"><![CDATA[variable]]></category>
@@ -22395,7 +22389,7 @@ Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[outofstock]]></wp:meta_value>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
@@ -22675,7 +22669,6 @@ Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow 
 		<category domain="product_tag" nicename="men"><![CDATA[men]]></category>
 		<category domain="product_cat" nicename="men"><![CDATA[Men]]></category>
 		<category domain="product_brand" nicename="nice-west"><![CDATA[Nice West]]></category>
-		<category domain="product_visibility" nicename="outofstock"><![CDATA[outofstock]]></category>
 		<category domain="product_visibility" nicename="rated-2"><![CDATA[rated-2]]></category>
 		<category domain="pa_size" nicename="s"><![CDATA[S]]></category>
 		<category domain="product_type" nicename="variable"><![CDATA[variable]]></category>
@@ -22769,7 +22762,7 @@ Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[outofstock]]></wp:meta_value>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
@@ -23042,7 +23035,6 @@ Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow 
 		<category domain="pa_color" nicename="light-green"><![CDATA[Light Green]]></category>
 		<category domain="product_cat" nicename="men"><![CDATA[Men]]></category>
 		<category domain="product_brand" nicename="nice-west"><![CDATA[Nice West]]></category>
-		<category domain="product_visibility" nicename="outofstock"><![CDATA[outofstock]]></category>
 		<category domain="product_brand" nicename="patagonia"><![CDATA[Patagonia]]></category>
 		<category domain="product_visibility" nicename="rated-5"><![CDATA[rated-5]]></category>
 		<category domain="product_type" nicename="variable"><![CDATA[variable]]></category>
@@ -23137,7 +23129,7 @@ Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[outofstock]]></wp:meta_value>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
@@ -23783,7 +23775,6 @@ Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow 
 		<category domain="pa_size" nicename="l"><![CDATA[L]]></category>
 		<category domain="pa_color" nicename="light-pink"><![CDATA[Light Pink]]></category>
 		<category domain="pa_size" nicename="m"><![CDATA[M]]></category>
-		<category domain="product_visibility" nicename="outofstock"><![CDATA[outofstock]]></category>
 		<category domain="product_visibility" nicename="rated-5"><![CDATA[rated-5]]></category>
 		<category domain="pa_size" nicename="s"><![CDATA[S]]></category>
 		<category domain="product_type" nicename="variable"><![CDATA[variable]]></category>
@@ -23875,7 +23866,7 @@ Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[outofstock]]></wp:meta_value>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
@@ -24516,7 +24507,6 @@ Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow 
 		<category domain="pa_color" nicename="light-purple"><![CDATA[Light Purple]]></category>
 		<category domain="pa_size" nicename="m"><![CDATA[M]]></category>
 		<category domain="product_brand" nicename="nice-west"><![CDATA[Nice West]]></category>
-		<category domain="product_visibility" nicename="outofstock"><![CDATA[outofstock]]></category>
 		<category domain="product_visibility" nicename="rated-5"><![CDATA[rated-5]]></category>
 		<category domain="pa_size" nicename="s"><![CDATA[S]]></category>
 		<category domain="product_type" nicename="variable"><![CDATA[variable]]></category>
@@ -24607,7 +24597,7 @@ Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[outofstock]]></wp:meta_value>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
@@ -24871,7 +24861,6 @@ Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow 
 		<category domain="pa_size" nicename="l"><![CDATA[L]]></category>
 		<category domain="pa_size" nicename="m"><![CDATA[M]]></category>
 		<category domain="pa_color" nicename="orange"><![CDATA[Orange]]></category>
-		<category domain="product_visibility" nicename="outofstock"><![CDATA[outofstock]]></category>
 		<category domain="product_brand" nicename="patagonia"><![CDATA[Patagonia]]></category>
 		<category domain="product_visibility" nicename="rated-5"><![CDATA[rated-5]]></category>
 		<category domain="pa_size" nicename="s"><![CDATA[S]]></category>
@@ -24961,7 +24950,7 @@ Commenter avatars come from <a href=\"https://en.gravatar.com/\" rel=\"nofollow 
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[outofstock]]></wp:meta_value>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
@@ -29770,7 +29759,7 @@ This email is a receipt for your contact form submission on our website ([_site_
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[outofstock]]></wp:meta_value>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
